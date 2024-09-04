@@ -12,7 +12,7 @@ export default function Home() {
     <p>A consultancy session</p>
     <a 
     href="https://buy.stripe.com/test_bIY4h60Tvbg95JSbII"
-    className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded"
+    className="bg-black text-white font-bold py-2 px-4"
     >
       Buy Now</a>
     </main>
